@@ -9,12 +9,5 @@
 6.2 - Windows Server 2012
 6.3 - Windows 8.1
 6.3 - Windows Server 2012 R2
-<<<<<<< HEAD
 6.4 - Windows 10
-%%%%%%
-RRRRRRRRRRRRRRRRRRRRRRRRR
-2348y 8hfg sdiufjh sd;oijf;dsf
-
-=======
-6.4 - Windows 10
->>>>>>> parent of bd84411... = edit WindowsVersion.txt=
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
